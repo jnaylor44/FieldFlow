@@ -1,0 +1,16 @@
+Folder PATH listing
+Volume serial number is 18F0-2B5F
+C:.
+|   index.tsx
+|   structure.txt
+|   
++---api
++---components
++---hooks
++---navigation
+|       AppNavigator.tsx
+|       index.tsx
+|       
++---screens
++---store
+\---utils
